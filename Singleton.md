@@ -1,0 +1,1 @@
+Used where exactly one instance of a class is permitted. Objects ned global and single point access, a static method of class that returns a single ton is used. Not all singleton methods are static, may wish for subclasses, static methods are not polymorphic, a class is not always a singleton in all application contexts.

@@ -1,0 +1,3 @@
+Focus is on [[Architectural Analysis]] and [[Logical Architecture]]
+Whilst [[Gang of Four]] and [[GRASP]] focus on design, [[Architectural Analysis]] and [[Logical Architecture]] takes a more holistic view of the entire system.
+Software Architecture is concerns on high level, Logical Architecture includes UML package diagram to illustrate logical architecture, organises software classes in layers (To become layered architecture). UML ensures things are very high level.

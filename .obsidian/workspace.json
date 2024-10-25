@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "2068f631db88c6e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcef85de25384984",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d58b4655be7243d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Protected Variants.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Protected Variants"
+            }
+          }
+        ]
+      },
+      {
+        "id": "45f8dd3bfba9334d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d80aa72dbd765acd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0335f5eb1f9ac424",
+    "type": "split",
+    "children": [
+      {
+        "id": "3922acd28a9b26b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f07377d75dc14a06",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5b10e3e5c5abe83d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7d7d76b6eba69642",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4abb98b3fc2517a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcea961cbe0d7d94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f137592b79021508",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Week 8.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Week 8"
+            }
+          },
+          {
+            "id": "eb15712b02cd5253",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Week 8.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Week 8"
+            }
+          },
+          {
+            "id": "2e45237be2001b3e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "faefc9ce0941db14",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Week 8.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Week 8"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d58b4655be7243d0",
+  "lastOpenFiles": [
+    "Week 10.md",
+    "Logical Architecture.md",
+    "Pasted image 20241025210352.png",
+    "Pasted image 20241025210322.png",
+    "Pasted image 20241025210312.png",
+    "Architectural Analysis.md",
+    "Pasted image 20241025203934.png",
+    "Pasted image 20241025202456.png",
+    "Week 12.md",
+    "Week 11.md",
+    "Protected Variants.md",
+    "Gang of Four.md",
+    "Observer.md",
+    "Pasted image 20241025184218.png",
+    "Week 8.md",
+    "Week 9.md",
+    "Week 7.md",
+    "Decorator.md",
+    "Factory.md",
+    "Adapter.md",
+    "Template.md",
+    "Pasted image 20241025183652.png",
+    "Composite.md",
+    "Pasted image 20241025182945.png",
+    "Strategy.md",
+    "Pasted image 20241025181558.png",
+    "Design Sequence Diagrams.md",
+    "Pasted image 20241024222039.png",
+    "Singleton.md",
+    "Builder.md",
+    "Façade.md",
+    "Week 6.md",
+    "State Machines.md",
+    "Week 2.md",
+    "Week 3.md",
+    "Images"
+  ]
+}
